@@ -51,22 +51,16 @@ We achieved the following classification report results for each model:
 
 
 #### K-Nearest Neighbors
+![image](https://github.com/ZekeH43/Project-2/assets/143846311/559013a0-e6ac-4d62-aa7a-1317df6bf599)
 
-- Precision: 
-- Recall: [recall score]
-- F1 Score: [F1 score]
 
 #### Gradient Boosting
+![image](https://github.com/ZekeH43/Project-2/assets/143846311/3195cc2a-2b41-44a6-bb75-d3b1de274243)
 
-- Precision: [precision score]
-- Recall: [recall score]
-- F1 Score: [F1 score]
 
 #### XGBoost
+![image](https://github.com/ZekeH43/Project-2/assets/143846311/daf20b6a-058e-410e-9078-3ad7078d6634)
 
-- Precision: [precision score]
-- Recall: [recall score]
-- F1 Score: [F1 score]
 
 #### K-Nearest Neighbors
 
