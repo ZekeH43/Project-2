@@ -52,33 +52,20 @@ We achieved the following classification report results for each model:
 
 #### K-Nearest Neighbors
 ![image](https://github.com/ZekeH43/Project-2/assets/143846311/559013a0-e6ac-4d62-aa7a-1317df6bf599)
+![image](https://github.com/ZekeH43/Project-2/assets/143846311/a97b2477-4124-469d-9c88-41786119a268)
+
 
 
 #### Gradient Boosting
 ![image](https://github.com/ZekeH43/Project-2/assets/143846311/3195cc2a-2b41-44a6-bb75-d3b1de274243)
+![image](https://github.com/ZekeH43/Project-2/assets/143846311/57bf5d7a-300d-473c-8847-c96347545a1f)
 
 
 #### XGBoost
 ![image](https://github.com/ZekeH43/Project-2/assets/143846311/daf20b6a-058e-410e-9078-3ad7078d6634)
+![image](https://github.com/ZekeH43/Project-2/assets/143846311/35ca0747-f02f-4d29-90db-3fcf1348fb21)
 
 
-#### K-Nearest Neighbors
-
-- Precision: [precision score]
-- Recall: [recall score]
-- F1 Score: [F1 score]
-
-#### Gradient Boosting
-
-- Precision: [precision score]
-- Recall: [recall score]
-- F1 Score: [F1 score]
-
-#### XGBoost
-
-- Precision: [precision score]
-- Recall: [recall score]
-- F1 Score: [F1 score]
 ### Data Visualization
 
 We created scatter plots and a correlation matrix heatmap to visually explore the relationships between selected features and the target variable.
