@@ -71,7 +71,7 @@ From our Gradient Boosting model we were able to visualize which variables were 
 
 ### Conclusion
 
-In conclusion, the analysis provided valuable insights into [summarize key findings]. Further exploration and potential model tuning could be considered to enhance predictive capabilities.
+In conclusion, the analysis provided valuable insights into predicting credit card fraud with machine learning models. Although our results may not have yielded exactly what we hoped for, we learned of valauable resources and practices that guided along the way, including feature importance.  
 
 
 
