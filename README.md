@@ -16,12 +16,6 @@ The primary objective of this analysis is to read in credit card transactions an
 
 The dataset contains eight variables of data that include distance from home, distance from last transaction, ration to median purchase price, repeat retailer, used chip, used pin number, online order, and fraud. These variable can provide valuable insights into the validity of the credit card transactions on our provided dataset.
 
-#### Prediction Target
-
-Our target variable for prediction is [mention the target variable]. The distribution of fraud and non-fraud instances is as follows:
-
-- Fraud: 
-- Non-Fraud: 
 
 ### Variables and Stages of Machine Learning Process
 
