@@ -19,10 +19,6 @@ The dataset contains eight variables of data that include distance from home, di
 
 ### Variables and Stages of Machine Learning Process
 
-#### Variables
-
-Key variables in the analysis include distance from home, distance from last transaction, ration to median purchase price, repeat retailer, used chip, used pin number, online order, and fraud, contributing to the understanding of the authenticity of a given transaction.
-
 #### Stages of Machine Learning Process
 
 The machine learning process encompassed data preprocessing, feature engineering, model selection, and evaluation. Each stage was carefully executed to ensure optimal model performance.
