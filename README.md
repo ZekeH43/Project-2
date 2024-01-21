@@ -8,7 +8,7 @@ Welcome to Are You a Fraud! This project involves an in-depth analysis utilizing
 
 ### Purpose of the Analysis
 
-The primary objective of this analysis is to read in credit card transactions and train our machine learning model to more accuratly predict credit card fraud. We aim to leverage machine learning models to predict when a charge is fraud based on financial information in the provided dataset.
+The primary objective of this analysis is to read in credit card transactions and train our machine learning model to more accurately predict credit card fraud. We aim to leverage machine learning models to predict when a charge is fraud based on financial information in the provided dataset.
 
 ### Financial Information and Prediction Target
 
@@ -17,11 +17,11 @@ The primary objective of this analysis is to read in credit card transactions an
 The dataset contains eight variables of data that include distance from home, distance from last transaction, ration to median purchase price, repeat retailer, used chip, used pin number, online order, and fraud. These variable can provide valuable insights into the validity of the credit card transactions on our provided dataset.
 
 
-### Variables and Stages of Machine Learning Process
+### Stages of Machine Learning Process
 
 #### Stages of Machine Learning Process
 
-The machine learning process encompassed data preprocessing, feature engineering, model selection, and evaluation. Each stage was carefully executed to ensure optimal model performance.
+The machine learning process encompassed data preprocessing, feature engineering, model selection, and evaluation. Each stage was carefully executed to ensure optimal model performance. We utilized the XGBoost model to make sure the Gradient Boosting model did not over fit. We visualized the importance features in the K-Nearest model as well as the Gradient Boosting model to see what variables had the greatest impact on fraudulent charges.
 
 ### Methods Used
 
@@ -61,7 +61,8 @@ We created a correlation matrix heatmap to visually explore the relationships be
 
 ![image](https://github.com/ZekeH43/Project-2/assets/143846311/f19fa54c-ff82-4f8d-b87d-16b289544e7f)
 
-From our Gradient Boosting model we were able to visulaize which variables were more important when mkaing a desicion if the transaction was fraudulent.
+
+From our Gradient Boosting model we were able to visualize which variables were more important when making a decision if the transaction was fraudulent.
 
 ![image](https://github.com/ZekeH43/Project-2/assets/143846311/cdd9b6e3-b2ac-49a8-9b36-1f10bbf92120)
 
