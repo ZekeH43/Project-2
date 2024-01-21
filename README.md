@@ -57,7 +57,7 @@ We achieved the following classification report results for each model:
 
 ### Data Visualization
 
-We created scatter plots and a correlation matrix heatmap to visually explore the relationships between selected features and the target variable.
+We created a correlation matrix heatmap to visually explore the relationships between selected features and the target variable.
 
 ![image](https://github.com/ZekeH43/Project-2/assets/143846311/f19fa54c-ff82-4f8d-b87d-16b289544e7f)
 
