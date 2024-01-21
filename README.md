@@ -61,6 +61,11 @@ We created a correlation matrix heatmap to visually explore the relationships be
 
 ![image](https://github.com/ZekeH43/Project-2/assets/143846311/f19fa54c-ff82-4f8d-b87d-16b289544e7f)
 
+From our XGBoost model we were able to visulaize which variables were more important when mkaing a desicion if the transaction was fraudulent.
+
+![image](https://github.com/ZekeH43/Project-2/assets/143846311/cdd9b6e3-b2ac-49a8-9b36-1f10bbf92120)
+
+
 
 
 ### Conclusion
