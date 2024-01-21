@@ -8,7 +8,7 @@ Welcome to Are You a Fraud! This project involves an in-depth analysis utilizing
 
 ### Purpose of the Analysis
 
-The primary objective of this analysis is to read in credit card transactions and train our machine learning model to more accuratly predict credit card fraud. We aim to leverage machine learning models to predict [specify what you aimed to predict] based on financial information in the provided dataset.
+The primary objective of this analysis is to read in credit card transactions and train our machine learning model to more accuratly predict credit card fraud. We aim to leverage machine learning models to predict when a charge is fraud based on financial information in the provided dataset.
 
 ### Financial Information and Prediction Target
 
@@ -40,7 +40,6 @@ We employed various machine learning models, including:
 - Gradient Boosting
 - XGBoost
 
-Additionally, [mention any relevant resampling methods or techniques] were utilized to enhance model robustness.
 
 ## Results
 
