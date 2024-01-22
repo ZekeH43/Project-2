@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to Are You a Fraud! This project involves an in-depth analysis utilizing machine learning models to predict if a credit card transaction is fraudulent or authentic. Below, you'll find an overview of the analysis, the dataset, the models used, and the key results.
+Welcome to Are You a Fraud! This project involves an in-depth analysis utilizing machine learning models to predict if a credit card transaction is fraudulent or authentic. Below, you'll find an overview of the analysis, the dataset, the models used, and the key results. We also focused on the feature importance of our K-Nearest model as well as our Gradient Boosting model to better understand what variables are looked at most when determining fraud.
 
 ## Analysis Overview
 
