@@ -71,7 +71,7 @@ From our Gradient Boosting model we were able to visualize which variables were 
 
 ### Conclusion
 
-In conclusion, the analysis provided valuable insights into predicting credit card fraud with machine learning models. Although our results may not have yielded exactly what we hoped for, we learned of valauable resources and practices that guided along the way, including feature importance. 
+In conclusion, the analysis provided valuable insights into predicting credit card fraud with machine learning models. Although our results may not have yielded exactly what we hoped for, we learned of valauable resources and practices that guided along the way, including feature importance. Overall Gradient Boosting was the most accurate at predicting false and non-false charges. We still made sure to use XGBoost to make Gradient Boosting did not over fit the model. As we noticed in out heat map median purchase price had the high correlation at determining if a charge was fraudulent or not.      
 
 
 
