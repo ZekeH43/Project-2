@@ -1,0 +1,5 @@
+# Tested direct dependencies for Python 3.11 and 3.12.
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+xgboost==3.1.0
